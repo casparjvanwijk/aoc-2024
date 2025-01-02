@@ -1,0 +1,30 @@
+linters:
+  enable:
+    - bodyclose
+    - dupl
+    - errcheck
+    - errcheck
+    - exhaustive
+    - goconst
+    - gocyclo
+    - gofmt
+    - gofumpt
+    - goimports
+    - gosec
+    - gosimple
+    - govet
+    - ineffassign
+    - nakedret
+    - perfsprint
+    - reassign
+    - revive
+    - sloglint
+    - staticcheck
+    - stylecheck
+    - tparallel
+    - typecheck
+    - unconvert
+    - unparam
+    - unused
+    - wastedassign
+    - whitespace
