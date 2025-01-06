@@ -10,7 +10,7 @@ import (
 func main() {
 	file, _ := os.ReadFile("./3-input.txt")
 	input := string(file)
-	
+
 	// Find mul(a,b), don't() and do() matches.
 	exp, _ := regexp.Compile(`mul\((\d{1,3}),(\d{1,3})\)|don't\(\)|do\(\)`)
 	matches := exp.FindAllStringSubmatch(input, -1)
