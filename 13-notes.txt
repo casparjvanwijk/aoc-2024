@@ -1,0 +1,25 @@
+Button A: X+94, Y+34
+Button B: X+22, Y+67
+Prize: X=8400, Y=5400
+
+A: 80
+B: 40
+
+Verhouding 2/1: 
+8400 % (2 * 94 + 1 * 22) = 0
+
+
+
+(Y buiten beschouwing gelaten)
+
+Button A: X+94, Y+34
+Button B: X+22, Y+67
+Prize: X=13040, Y=5400
+
+A: 120
+B: 80
+
+Verhouding 3/2: 
+13040 % (3 * 94 + 2 * 22) = 0
+
+
